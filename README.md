@@ -15,5 +15,4 @@ Ratings Summary: Visual breakdown of customer ratings from 1 to 5.
 Financial Overview: Total amount generated per representative and per client.
 
 
--DASHBOARD PREVIEW
-![Call_Centre_Visuals](https://github.com/user-attachments/assets/cff47757-dd6a-41cd-8d12-5f1dd1b7e1a0)
+
